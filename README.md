@@ -6,10 +6,13 @@ Examine the ch1.pacp file with Wireshark to get the answers
 
 TELNET AUthentification
 
+Examine the ch2.pacp file with Wireshark and follow the TELNET stream
+
 ![TELNET Authentification](TELNET.JPEG)
 
 TWITTER Authentification
 
+Examine the ch3.pacp file with Wireshark and follow the TWITTER stream
 ![TWITTER Authentification](TWITTER.JPEG)
 
 ETHERNET FRAME 
